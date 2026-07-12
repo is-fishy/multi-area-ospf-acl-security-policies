@@ -2,7 +2,6 @@
 
 Extension of the [`multi-area-ospf-cost-manipulation`](https://github.com/is-fishy/multi-area-ospf-cost-manipulation) lab. This project layers standard and extended ACLs on top of a working 3-router multi-area OSPF topology to enforce per-department access policies to a shared server, without breaking OSPF adjacencies or inter-area routing.
 
-> **Note:** All screenshots referenced below live in a `screenshots/` folder at the root of this repo. Make sure that folder exists and contains every file named below (exact match, including case) or the images will show as broken links.
 
 ## Topology
 
